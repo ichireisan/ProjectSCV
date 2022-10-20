@@ -1,7 +1,6 @@
 # Project SCV
 
-The Smart Conveyance Vehicle is an attempt to create an autonomous robot that uses sensors to interact with its environment and perform the following tasks 
-i.e. 
+The Smart Conveyance Vehicle is an attempt to create an autonomous robot that uses sensors to interact with its environment and perform the following tasks.
 
 (1) to follow a chosen track, 
 
