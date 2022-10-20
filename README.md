@@ -12,6 +12,6 @@ The Smart Conveyance Vehicle is an attempt to create an autonomous robot that us
 
 (5) follow back to the source. 
 
-The project documentation is in Project_SCV.docx
+The detailed project implementation documentation is in Project_SCV.docx
 
 The demo is available here: https://youtu.be/1mt-TAGvGnw
